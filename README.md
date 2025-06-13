@@ -1,2 +1,2 @@
 # apnacollege-demo
-college purpose
+college purpose(video)
